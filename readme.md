@@ -46,17 +46,17 @@ This repository contains my configuration files (dotfiles) for various tools and
 ### neovim
 
 - Configuration Directory: `.config/nvim`
-- Includes plugins, key mappings, and theme settings managed via a plugin manager like `vim-plug` or `packer.nvim`.
+- Includes plugins, key mappings, and theme settings.
 
 ### alacritty
 
-- Configuration File: `.config/alacritty/alacritty.yml`
+- Configuration File: `.config/alacritty/alacritty.toml`
 - Settings for fonts, colors, and other terminal preferences.
 
 ### zsh
 
 - Configuration File: `.zshrc`
-- Includes prompt settings, aliases, and plugins managed with a framework like `oh-my-zsh` or `zinit`.
+- Includes prompt settings, aliases, and plugins managed with `oh-my-zsh`.
 
 ## Customizing
 
